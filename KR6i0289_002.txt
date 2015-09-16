@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:15:17.100140
+#+DATE: 2015-08-30 20:15:18.765208
 #+TITLE: 佛說諸法本無經
 #+PROPERTY: CBETA_ID T15n0651
 #+PROPERTY: ID KR6i0289
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 15, No. 651
 #+PROPERTY: VOL 15
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@SHENG
 #+PROPERTY: LASTPB <pb:KR6i0289_T_000-0761b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0289_T_002-0765b> 
 #+PROPERTY: JUAN 2
 ¶
-
- 《佛說諸法本無經》卷中¶
+《佛說諸法本無經》卷中¶
 ¶
 隋天竺三藏闍那崛多譯¶
 
@@ -73,8 +72,7 @@
 善、此法當知此法當斷、此法當證此法當¶
 修，所謂苦應知、集應斷、滅應證、道應修。¶
 何以故？若諸凡夫小兒染恚癡處，於中見彼¶
-諸法無生無有不實，分別所繫。如是見已，彼¶
-於法中無取無捨，見諸欲瞋癡等皆如虛空¶
+諸法無生無有不實，分別所繫。如是見已，彼於法中無取無捨，見諸欲瞋癡等皆如虛空¶
 自性。彼於諸三界中無所著，於諸三界彼¶
 見無生，見諸三界如幻如夢、如響如影，於諸¶
 善不善法見其如焰。見彼欲界即涅槃界，¶
