@@ -1,19 +1,18 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:15:17.121123
+#+DATE: 2015-08-30 20:15:19.073409
 #+TITLE: 佛說諸法本無經
 #+PROPERTY: CBETA_ID T15n0651
 #+PROPERTY: ID KR6i0289
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 15, No. 651
 #+PROPERTY: VOL 15
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6i0289_T_000-0761b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0289_T_003-0768b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 3
 ¶
 ¶
-
- 《佛說諸法本無經》卷下¶
+《佛說諸法本無經》卷下¶
 ¶
 隋天竺三藏闍那崛多譯¶
 
@@ -620,9 +619,9 @@
 　若見菩提遠菩提；¶
 　不此教中至滅度，
 　分別此法無有實。¶
-　若佛法中生羨樂，
+　若佛法中生羡樂，
 　彼則遠此佛菩提；¶
-　無實法中既生羨，
+　無實法中既生羡，
 　則當復受於苦惱。¶
 　若以供養異不供，
 　供養法中則聚著；¶
