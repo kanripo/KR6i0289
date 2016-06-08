@@ -1,12 +1,12 @@
 # -*- mode: mandoku-view; -*-
-#+DATE: 2016-06-08 9:13
+#+DATE: 2016-06-08 9:14
 #+TITLE: 佛說諸法本無經
 #+PROPERTY: CBETA_ID T15n0651
 #+PROPERTY: ID KR6i0289
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 15, No. 651
 #+PROPERTY: VOL 15
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS master
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6i0289_T_000-0761b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0289_T_003-0768b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 3
